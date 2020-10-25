@@ -1,5 +1,3 @@
-lines (9 sloc)  301 Bytes
-  
 var router =require("express").Router();
 var path =require("path");
 
