@@ -19,7 +19,7 @@ class Notes {
     }
     
     getNotes() {
-        console.log("get notes")
+        // console.log("get notes")
         return this.read().then(notes => {
             // console.log(notes)
             let notesArray;
