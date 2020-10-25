@@ -17,7 +17,7 @@
   First you need to download the files from my github. If you're reading this, you're already here. Then all you need to do make sure that you have the express npm module downloaded. 
 
   ## Usage
-  You can try it out for yourself by starting up the server using npm start in the development enviornment of your choice. It'll run the server on Port 3001, just navigate in your browser to localhost:3001. You can also check it out at my Heroku site here: 
+  You can try it out for yourself by starting up the server using npm start in the development enviornment of your choice. It'll run the server on Port 3001, just navigate in your browser to localhost:3001. You can also check it out at my Heroku site here: https://guarded-escarpment-16875.herokuapp.com/
 
   ## License
   This project uses the MIT license. Check out <a href="https://choosealicense.com">this</a> website for more information on this and other licenses. 
@@ -26,7 +26,7 @@
   As of right now, you can't edit notes you've already saved. Adding that functionality would be fanstastic.
 
   ## Tests
-  Check it out here: 
+  Check it out here: https://guarded-escarpment-16875.herokuapp.com/
   
   ## Contact
   Learn more about the owner of this project by visiting their Github Profile: <a href=https://github.com/FullmerJake>FullmerJake</a>
