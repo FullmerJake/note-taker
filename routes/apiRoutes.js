@@ -1,7 +1,7 @@
 var router =require("express").Router();
 var notes = require("../db/notes.js");
 
-// GET route 
+// GET route to display all notes you've made
 router.get("/notes", function(req, res){
     notes.getNotes()
     .then(notes => res.json(notes))
